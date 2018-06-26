@@ -1,0 +1,5 @@
+*.ppk
+*.pem
+*.pub
+id_rsa*
+sopra-k8s-azure*
